@@ -1,0 +1,18 @@
+{
+    "name": "turbowatch-error",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "dev": "node --loader tsx turbowatch.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "tsx": "^3.12.7",
+        "turbowatch": "^2.29.4",
+        "typescript": "^5.1.3"
+    }
+}
